@@ -1,1 +1,1 @@
-<h1 style="text-align: center; font-weight: 700">Hi! My Name is Christ Rile A. Parinasan </h1>
+<h1 style="align-text: center; font-weight: 700">Hi! My Name is Christ Rile A. Parinasan </h1>
